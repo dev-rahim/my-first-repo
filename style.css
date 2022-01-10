@@ -1,3 +1,9 @@
 h1{
     color: aquamarine;
 }
+h2{
+    border: 2px solid royalblue;
+    color: salmon;
+    display: inline-block;
+    padding: 20px;
+}
